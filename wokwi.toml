@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/pisca_Led.uf2"
+elf = "build/pisca_Led.elf"
